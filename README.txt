@@ -1,6 +1,6 @@
 Electronic notebook for the paper "Benthic micro- and macro-community succession and coral recruitment under overfishing and nutrient enrichment" accepted for publication in Ecology.
 
-Contains two folders: one with all the main figures and one with the supplementary figures. Tables associated with each figure are also listed in the R code.
+Contains two folders: one with all the main figures and one with the supplementary figures. Tables associated with each figure are also included in the respective folders.
 
 Each Folder contains a PDF of the figure, data file(s), and R code used to analyse the data and produce the associated figure(s), where applicable.
 
