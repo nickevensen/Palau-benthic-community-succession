@@ -1,0 +1,17 @@
+,nutrients,herbivore,treatment,dominant
+T1AO_1,ambient,open,AO,CCA
+T1AO_5,ambient,open,AO,unknown
+T1AO_3,ambient,open,AO,NCCA
+T1AO_29,ambient,open,AO,unknown
+T1AC_7,ambient,caged,AC,Lobophora
+T1AC_9,ambient,caged,AC,Turf
+T1AC_8,ambient,caged,AC,Lobophora
+T1AC_33,ambient,caged,AC,Lobophora
+T1NO_13,nutrient,open,NO,CCA
+T1NO_15,nutrient,open,NO,CCA
+T1NO_17,nutrient,open,NO,unknown
+T1NO_37,nutrient,open,NO,CCA
+T1NC_19,nutrient,caged,NC,EAM
+T1NC_20,nutrient,caged,NC,Turf
+T1NC_21,nutrient,caged,NC,Turf
+T1NC_43,nutrient,caged,NC,Lobophora
